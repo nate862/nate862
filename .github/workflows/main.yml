@@ -1,5 +1,4 @@
-CMST385
-Deploy HTML Files to AppService - CMST385
+name: Deploy HTML Files to AppService - CMST385
 on:
   push:
   branches:
